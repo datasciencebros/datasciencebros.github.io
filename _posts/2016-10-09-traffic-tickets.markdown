@@ -7,4 +7,4 @@ categories: posts
 bla bla bla
 
 
-<script async src="//jsfiddle.net/aniversarioperu/tLjywuz7/embed/"></script> 
+<iframe width="100%" height="450" src="//jsfiddle.net/aniversarioperu/tLjywuz7/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
