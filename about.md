@@ -18,5 +18,5 @@ You can find more information about Carlos in [mycalesis.me](http://mycalesis.me
 
 Software Engineer and Data Science Enthusiast. Organizer of Data Science Lima Meetup.
 
-You can find more information about Edgar in its [twitter account](https://twitter.com/carlosp420).
+You can find more information about Edgar in his [twitter account](https://twitter.com/carlosp420).
 
